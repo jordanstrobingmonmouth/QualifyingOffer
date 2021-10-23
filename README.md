@@ -60,6 +60,7 @@ Here's a step by step outline of how the program works:
 ![image](https://user-images.githubusercontent.com/71049431/138570413-380315cf-c5b0-44b8-9926-90e1a6ab0043.png)
 
 12. Finally, I displayed the value of the qualifying offer to the user. I also added the total salary of the top 125 players because I thought it was interesting. The QO value changes on every iteration, but it stays in a similar range.
+
 ![image](https://user-images.githubusercontent.com/71049431/138570421-571613cb-886b-45fd-ae16-9b531c785def.png)
 
 Something extra I'd like to mention is I think my error handling of this program worked out well. I looked through the first 50 and last 50 players' salaries and all were correct in my scraping.
