@@ -6,7 +6,9 @@ To run this program, just put it in your IDE or console and it will display the 
 
 If you don't, put this into the console
 pip install requests
+
 pip install html5lib
+
 pip install bs4
 
 Link to the file that I uploaded to DropBox: https://www.dropbox.com/sh/mk12zunn1wnxxwf/AAAw1G8RQn0J0GShWYFmSkVka?dl=0
