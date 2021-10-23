@@ -2,6 +2,17 @@
 
 First, I would like to thank the Phillies for the opportunity to build this program. It was extremely fun to build this and learn BeautifulSoup along the way.
 
+To run this program, just put it in your IDE or console and it will display the correct output. Make sure to have BeautifulSoup, requests, and html5lib installed. 
+
+If you don't, put this into the console
+pip install requests
+pip install html5lib
+pip install bs4
+
+Link to the file that I uploaded to DropBox: https://www.dropbox.com/sh/mk12zunn1wnxxwf/AAAw1G8RQn0J0GShWYFmSkVka?dl=0
+
+Here's a step by step outline of how the program works:
+
 1. I created the URL variable and set r to be able to retrieve the URL.
 
 2. I created the soup object to be able to parse the HTML page.
