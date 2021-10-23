@@ -4,13 +4,10 @@ First, I would like to thank the Phillies for the opportunity to build this prog
 
 To run this program, just put it in your IDE or console and it will display the correct output. Make sure to have BeautifulSoup, requests, and html5lib installed. 
 
-If you don't, put this into the console:
+If you don't, put this into your terminal:
 
-pip install requests
+![image](https://user-images.githubusercontent.com/71049431/138570457-1b02f453-7570-4fbe-9ba4-506ffb1c8892.png)
 
-pip install html5lib
-
-pip install bs4
 
 Link to the file that I uploaded to DropBox: https://www.dropbox.com/sh/mk12zunn1wnxxwf/AAAw1G8RQn0J0GShWYFmSkVka?dl=0
 
