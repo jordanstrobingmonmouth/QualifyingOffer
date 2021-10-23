@@ -11,6 +11,11 @@ pip install bs4
 
 Link to the file that I uploaded to DropBox: https://www.dropbox.com/sh/mk12zunn1wnxxwf/AAAw1G8RQn0J0GShWYFmSkVka?dl=0
 
+Sample ouput: 
+
+The qualifying offer for this season is: $16,706,727.48
+The 125 highest paid players in the MLB made $2,088,340,935.00 last season
+
 Here's a step by step outline of how the program works:
 
 1. I created the URL variable and set r to be able to retrieve the URL.
