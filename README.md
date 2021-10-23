@@ -16,9 +16,7 @@ Link to the file that I uploaded to DropBox: https://www.dropbox.com/sh/mk12zunn
 
 Sample ouput: 
 
-The qualifying offer for this season is: $16,706,727.48
-
-The 125 highest paid players in the MLB made $2,088,340,935.00 last season
+![image](https://user-images.githubusercontent.com/71049431/138570241-7227e26c-28e1-4893-b9a5-261af0fb5ead.png)
 
 Here's a step by step outline of how the program works:
 
