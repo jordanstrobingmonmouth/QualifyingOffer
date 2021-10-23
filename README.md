@@ -4,7 +4,7 @@ First, I would like to thank the Phillies for the opportunity to build this prog
 
 To run this program, just put it in your IDE or console and it will display the correct output. Make sure to have BeautifulSoup, requests, and html5lib installed. 
 
-If you don't, put this into the console
+If you don't, put this into the console:
 
 pip install requests
 
